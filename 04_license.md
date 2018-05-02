@@ -31,7 +31,8 @@ https://www.jpo.go.jp/beginner/beginner_08.html
 - [首相官邸 知的財産基本法](http://www.kantei.go.jp/jp/singi/titeki2/hourei/kihon.html)
 
 ## まとめ
-
+- 知的財産権は、発明者を守るだけではなく、それを公表して世の中を改善する役割も持っている。
+- 産業関連は特許庁、文化関連は文化庁
 
 
 # 作品を守る法律
