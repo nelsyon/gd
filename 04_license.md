@@ -37,7 +37,7 @@ https://www.jpo.go.jp/beginner/beginner_08.html
 
 # 作品を守る法律
 - [福井健策 18歳からの著作権入門](https://japan.cnet.com/article/35047586/)
-- [総務省行政管理局 法令データ提供システム 著作権法](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048&openerCode=1
+- [総務省行政管理局 法令データ提供システム 著作権法](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048&openerCode=1)
 
 ## 著作権とは、の前に
 ここでのメインのテーマは、他の人の著作物を活用する方法を確認して、正しく積極的に使えるようにすることです。
